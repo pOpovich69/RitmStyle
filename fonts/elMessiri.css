@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'El Messiri';
+    src: url('ElMessiri-Regular.woff2') format('woff2'),
+        url('ElMessiri-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'El Messiri';
+    src: url('ElMessiri-Bold.woff') format('woff2'),
+        url('ElMessiri-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('ProximaNova-Regular.woff2') format('woff2'),
+        url('ProximaNova-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
